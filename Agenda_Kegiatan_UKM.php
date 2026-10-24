@@ -240,7 +240,7 @@ function ujiValidasi(string $judul, callable $aksi): void
 // PROGRAM UTAMA
 try {
     echo "============================================================\n";
-    echo " CONTOH DATA AGENDA KEGIATAN UKM KREATIF\n";
+    echo " DATA AGENDA KEGIATAN UKM KREATIF\n";
     echo "============================================================\n";
 
     $daftar = new DaftarAgenda();
